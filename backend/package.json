@@ -1,0 +1,10 @@
+{
+  "name": "aurum-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend do AURUM Licitações – integração PNCP e regras de negócio",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
